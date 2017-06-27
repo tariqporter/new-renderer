@@ -1,0 +1,9 @@
+C:\Users\tporter\projects\new-renderer\new-renderer\bin\Debug\netcoreapp1.1\new-renderer.deps.json
+C:\Users\tporter\projects\new-renderer\new-renderer\bin\Debug\netcoreapp1.1\new-renderer.runtimeconfig.json
+C:\Users\tporter\projects\new-renderer\new-renderer\bin\Debug\netcoreapp1.1\new-renderer.runtimeconfig.dev.json
+C:\Users\tporter\projects\new-renderer\new-renderer\bin\Debug\netcoreapp1.1\new-renderer.dll
+C:\Users\tporter\projects\new-renderer\new-renderer\bin\Debug\netcoreapp1.1\new-renderer.pdb
+C:\Users\tporter\projects\new-renderer\new-renderer\obj\Debug\netcoreapp1.1\new-renderer.csprojResolveAssemblyReference.cache
+C:\Users\tporter\projects\new-renderer\new-renderer\obj\Debug\netcoreapp1.1\new-renderer.AssemblyInfo.cs
+C:\Users\tporter\projects\new-renderer\new-renderer\obj\Debug\netcoreapp1.1\new-renderer.dll
+C:\Users\tporter\projects\new-renderer\new-renderer\obj\Debug\netcoreapp1.1\new-renderer.pdb
